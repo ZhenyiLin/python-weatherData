@@ -30,4 +30,5 @@ The weather API data includes:
 ### Limitations ###
 - calls per day: 500
 - calls per min: 10
+
 In other word, must download data slowly.
