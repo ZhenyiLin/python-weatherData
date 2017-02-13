@@ -1,9 +1,9 @@
 # Weather Data #
 ## Access Data ##
-Python code to download weather data from API at [weather Forecast & Report]('https://www.wunderground.com/weather/api/d/docs?d=index')
+Python code to download weather data from API at [weather Forecast & Report](https://www.wunderground.com/weather/api/)
 
 ### About weather API  ###
-Firstly need to apply an develop account in order to get an API key   
+Firstly need to apply an develop account in order to get an API key  in the 'key settings'    
 The weather API data includes:
 - Geolookup
 - Autocomplete
