@@ -1,6 +1,6 @@
 # Weather Data #
 ## Access Data ##
-Python code to download weather data from API at [weather Forecast & Report]('www.wunderground.com')
+Python code to download weather data from API at [weather Forecast & Report]('https://www.wunderground.com/weather/api/d/docs?d=index')
 
 ### About weather API  ###
 Firstly need to apply an develop account in order to get an API key   
